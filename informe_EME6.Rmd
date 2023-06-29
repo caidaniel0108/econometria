@@ -36,7 +36,7 @@ knitr::opts_chunk$set(
 \begin{flushright}
    {\Large \bf{Integrantes:} \par}
        
-  {\Large Constanza Guajardo\\ José Oporto\\ Montserrat Díaz \par}
+  {\Large Cai Guajardo\\ José Oporto\\ Montserrat Díaz \par}
          \vfill
 \end{flushright}
    
